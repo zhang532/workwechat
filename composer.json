@@ -58,9 +58,5 @@
     "check-style": "php-cs-fixer fix --using-cache=no --diff --config=.php_cs --dry-run --ansi",
     "fix-style": "php-cs-fixer fix --using-cache=no --config=.php_cs --ansi",
     "test": "vendor/bin/phpunit --colors=always"
-  },
-    "packagist": {
-        "type": "composer",
-        "url": "https://packagist.org"
-    }
+  }
 }
