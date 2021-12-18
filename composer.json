@@ -38,6 +38,11 @@
     "phpstan/phpstan": "^0.12.0",
     "phpunit/phpunit": "^7.5"
   },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.1"
+        }
+    },
  "autoload": {
     "psr-4": {
       "WorkWeChat\\": "src/"
@@ -57,12 +62,5 @@
     "packagist": {
         "type": "composer",
         "url": "https://packagist.phpcomposer.com"
-    },
-{
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v1.0.1"
-        }
     }
-}
 }
