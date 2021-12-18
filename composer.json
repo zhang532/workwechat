@@ -61,6 +61,6 @@
   },
     "packagist": {
         "type": "composer",
-        "url": "https://packagist.phpcomposer.com"
+        "url": "https://packagist.org"
     }
 }
