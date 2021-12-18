@@ -23,7 +23,7 @@
 ## Installation
 
 ```shell
-$ composer require "workwechat/wechat:^4.2" -vvv
+$ composer require workwechat/wechat
 ```
 
 ## Usage
