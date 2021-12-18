@@ -57,6 +57,12 @@
     "packagist": {
         "type": "composer",
         "url": "https://packagist.phpcomposer.com"
+    },
+{
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.1"
+        }
     }
-
+}
 }
